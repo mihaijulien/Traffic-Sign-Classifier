@@ -1,5 +1,8 @@
 # Traffic-Sign-Classifier
 
+View the notebook online: 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mihaijulien/Traffic-Sign-Classifier/tree/master/)
+
 Guided project of the following course: [Autonomous Cars: Deep Learning and Computer Vision in Python ](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/)
 
 The goal of the project was to build a model to clasiffy traffic signs.
